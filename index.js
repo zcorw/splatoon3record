@@ -21,4 +21,4 @@ const result = require('./data/results.json').map((res) => {
     map,
   }
 });
-console.log(result)
+module.exports = result;

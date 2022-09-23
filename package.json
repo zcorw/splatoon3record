@@ -1,0 +1,11 @@
+{
+  "name": "splatoon3record",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zcorw/splatoon3record.git",
+  "author": "zcorw <zhzhwwt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.18.12/xlsx-0.18.12.tgz"
+  }
+}
